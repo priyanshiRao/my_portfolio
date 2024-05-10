@@ -1,1 +1,1 @@
-## To visit my portfolio website click [here](https://jaydipdey.netlify.app/)
+## To visit my portfolio website click [here](https://my-portfolio-nine-ruddy.vercel.app/)
