@@ -21,7 +21,7 @@ function Home() {
           <div className="intro-content d-flex justify-content-between">
             <button className="primary-button font-bold">
               <a
-                href="https://drive.google.com/file/d/1nLfOcGHTWUr6jlIU4V3EeipInHl3fS5d/view?usp=sharing"
+                href="https://drive.google.com/file/d/13JhkRhoEvI1vco3u0GM4ybxPbtw3K6ig/view"
                 target="_blank"
               >
                 Resume
